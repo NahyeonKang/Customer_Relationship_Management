@@ -20,12 +20,15 @@
 <img width="160" alt="image" src="https://user-images.githubusercontent.com/24906028/179411467-8c38fe73-0733-4ec9-b604-ded8c9bb48fa.png">  
 지속회원이 많은 그룹 0, 그룹 3에는 정기적으로 이용하는 회원이 많다.
 ## 다음 달 이용 횟수 예측
-과거 6개월의 이용 데이터를 사용해 다음 달의 이용 횟수 예측  
+과거 6개월의 이용 데이터를 사용해 다음 달의 이용 횟수 예측
+
 ### 변수 기여도
 <img width="136" alt="image" src="https://user-images.githubusercontent.com/24906028/179412134-ad247e4a-9963-4952-8ec2-39de54b6e409.png">  
-가장 최근 달의 이용 횟수가 다음 달 이용 횟수에 가장 큰 영향  
+가장 최근 달의 이용 횟수가 다음 달 이용 횟수에 가장 큰 영향
+
 ### 6개월 동안 달마다 7번, 8번, 6번, 4번, 4번, 3번 방문한 회원과 6번, 4번, 3번, 3번, 2번, 2번 방문한 회원(두 회원 모두 재적 기간 8개월)의 다음 달 방문횟수 예측
 <img width="159" alt="image" src="https://user-images.githubusercontent.com/24906028/179413152-9ebc966c-aa0f-4479-97de-878fddaf7068.png">
+
 ## 탈퇴 예측
 
 
