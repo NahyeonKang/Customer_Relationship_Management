@@ -5,7 +5,7 @@
 <img width="507" alt="image" src="https://user-images.githubusercontent.com/24906028/179410826-89c904ac-3b63-434f-87cd-2e72dc5e9ec1.png">  
 ### 지속회원  
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/24906028/179410835-987ca776-1f34-42d3-951d-0c95ea4b3754.png">  
-지속회원의 routine_flg 평균값은 0.98로 대부분 정기적으로 이용하고 있지만 탈퇴 회원은 0.45로 거의 절반은 랜덤하게 이용하고 있다.  
+지속회원의 routine_flg 평균값은 0.98로 대부분 정기적으로 이용하고 있지만 탈퇴 회원은 0.45로 거의 절반은 랜덤하게 이용하고 있다.
 ## 군집화하여 행동 패턴을 파악하고 행동 예측  
 ### 고객의 한달 이용 이력 평균, 중앙값, 최댓값, 최솟값, 회원기간을 기준으로 4개의 군집으로 K-means Clustering 수행
 ### 클러스터링에 사용한 변수는 5개로 시각화를 위해 PCA를 활용해 2차원으로 차원축소  
