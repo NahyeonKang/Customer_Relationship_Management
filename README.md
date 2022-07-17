@@ -33,6 +33,7 @@
 ## 탈퇴 예측
 ### 변수 기여도
 <img width="210" alt="image" src="https://user-images.githubusercontent.com/24906028/179419030-50c72d54-d958-48c2-832c-28f8340c3399.png">
+
 ### 예측하기
 count_1 = 3  
 routine_flg = 1  
